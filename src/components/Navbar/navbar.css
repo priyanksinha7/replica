@@ -1,0 +1,43 @@
+#myNAV
+{
+    border: 4px;
+    border-style: solid;
+    border-color:#d7d7d7;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#img
+{
+    height: 40px;
+    width: 150px;
+}
+#img3
+{
+    height: 40px;
+    width: 50px;
+    border: 1px solid white;
+    padding-right: 5px;
+    
+}
+#img3:hover
+{
+    background-color: grey;
+    color: grey;
+}
+#img2
+{
+    height: 40px;
+    width: 45px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+#toggle
+{
+    border: 0px;
+    height: 40px;
+    width: 45px;
+    padding-right: 50px;
+}
+#con1
+{
+    margin: 0%;
+}

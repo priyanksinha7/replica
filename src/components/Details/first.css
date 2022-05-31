@@ -1,0 +1,38 @@
+#myRow
+{
+    margin-top: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 1px solid #d7d7d7;;
+}
+#myRow2
+{
+    margin-top: 20px;
+    justify-content: flex-start;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+#myRow3
+{
+    margin-top: 20px;
+    justify-content: flex-start;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin-bottom: 20px;
+}
+#myImg{
+    height: 29px;
+    width: 45px;
+    margin: 0;
+    padding: 0;
+}
+#myImg2{
+    height: 29px;
+    width: 30px;
+    margin: 0;
+    padding: 0;
+}
+#col11
+{
+    margin: 0;
+    padding: 0;
+}
